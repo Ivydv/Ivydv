@@ -1,4 +1,4 @@
-- Welcome. This account's purpose is to post random bullshit code I make. Have fun motherfuckers.
+- Welcome. This account's purpose is to post random code I create.
 
 <!---
 Ivydv/Ivydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
